@@ -1,0 +1,10 @@
+{
+  "description": "Engage with an interactive card carousel that allows users to shuffle and move cards seamlessly, enhancing user experience and interaction.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
